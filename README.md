@@ -147,7 +147,7 @@ Assets can be kept where you want and can be imported into your js files or css 
 We use babel to transpile code in both server and client with `stage-0` plugin. So, you can use both ES6 and experimental ES7 features.
 
 ### Docker
-There are docker configurations for both development and production.
+Both development and production docker configurations are available.
 
 To run docker for development,
 ```
